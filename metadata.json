@@ -1,0 +1,6 @@
+{
+  "name": "DataFlow AWS",
+  "description": "An interactive planning, simulation, and generation platform for advanced AWS serverless data pipelines using AWS Lambda, AWS Glue, and Amazon QuickSight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
