@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![DataFlow AWS](https://ai.google.dev/static/site-assets/images/share-ais-513315318.png)
+![DataFlow AWS]
 
 **Interactive Planning, Simulation & Generation Platform for AWS Serverless Data Pipelines**
 
